@@ -42,53 +42,53 @@ function parcela() {
     let valorcobrar;
 
     if (nparcela == 1) {
-        parcela = 4.74 / 100;
+        parcela = 5.31 / 100;
         resul = valorparcela - (valorparcela * parcela);
         valorcobrar = valorparcela / (1 - parcela);
     }
     else if (nparcela == 2) {
-        parcela = 9.90 / 100;
+        parcela = 7.64 / 100;
         resul = valorparcela - (valorparcela * parcela);
         valorcobrar = valorparcela / (1 - parcela);
     }
     else if (nparcela == 3) {
-        parcela = 4.74 / 100;
+        parcela = 9.23 / 100;
         resul = valorparcela - (valorparcela * parcela);
         valorcobrar = valorparcela / (1 - parcela);
     }
     else if (nparcela == 4) {
-        parcela = 9.90 / 100;
+        parcela = 10.86 / 100;
         resul = valorparcela - (valorparcela * parcela);
         valorcobrar = valorparcela / (1 - parcela);
 
     }
     else if (nparcela == 5) {
-        parcela = 4.74 / 100;
+        parcela = 12.31 / 100;
         resul = valorparcela - (valorparcela * parcela);
         valorcobrar = valorparcela / (1 - parcela);
     }
     else if (nparcela == 6) {
-        parcela = 9.90 / 100;
+        parcela = 13.65 / 100;
         resul = valorparcela - (valorparcela * parcela);
         valorcobrar = valorparcela / (1 - parcela);
     }
     else if (nparcela == 7) {
-        parcela = 4.74 / 100;
+        parcela = 14.72 / 100;
         resul = valorparcela - (valorparcela * parcela);
         valorcobrar = valorparcela / (1 - parcela);
     }
     else if (nparcela == 8) {
-        parcela = 9.90 / 100;
+        parcela = 16.23 / 100;
         resul = valorparcela - (valorparcela * parcela);
         valorcobrar = valorparcela / (1 - parcela);
     }
     else if (nparcela == 9) {
-        parcela = 4.74 / 100;
+        parcela = 17.69 / 100;
         resul = valorparcela - (valorparcela * parcela);
         valorcobrar = valorparcela / (1 - parcela);
     }
     else if (nparcela == 10) {
-        parcela = 9.90 / 100;
+        parcela = 18.65 / 100;
         resul = valorparcela - (valorparcela * parcela);
         valorcobrar = valorparcela / (1 - parcela);
     }
